@@ -2,14 +2,14 @@
 
 # Hello, I am Buse Köseoğlu! 
 
-As a software
-engineering student with a strong
-interest in software that require team
-work and analytical thinking. Fully
-commited to learning new knowledges
-and adapting techniques which is
-required by time. Always opens to learn
-new trick about everything from anyone.
+**About Me!**
+
+- 💻 I’m currently Project and Process Intern at D.Serve
+- 🌱 I’m currently developing Python GUI projects and Data Science projects
+- 🔖 I’m currently learning Swift for Mobile Programming.
+- 🧩 I learn the services of Azure and AWS and add them to my projects.
+- 🌲 Developing projects with Solidity and Javascript is among my resolutions this year.
+- 🤔 My interest lies in Data Science, Machine Learning, Deep Learning and Mobile Programming
 
 
 [![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/busekoseoglu07)
