@@ -1,10 +1,9 @@
 # Hello, I am Buse Köseoğlu! 
 
 **About Me!**
-
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="260">
 - 💻 I’m currently Project and Process Intern at D.Serve
 - 🌱 I’m currently developing Python GUI projects and Data Science projects
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="260">
 - 🔖 I’m currently learning Swift for Mobile Programming.
 - 🧩 I learn the services of Azure and AWS and add them to my projects.
 - 🌲 Developing projects with Solidity and Javascript is among my resolutions this year.
