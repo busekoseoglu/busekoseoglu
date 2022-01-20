@@ -18,7 +18,7 @@ new trick about everything from anyone.
 [![Mail Badge](https://img.shields.io/badge/buse.koseoglu13@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:buse.koseoglu13@gmail.com)](mailto:buse.koseoglu13@gmail.com)
 
 ### 🛠 &nbsp;Tech Stack
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)&nbsp;
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
