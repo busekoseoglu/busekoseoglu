@@ -20,19 +20,19 @@
 <hr>
 <h3 align="right">Connect with me:</h3> 
 <p align="left">
-  <a href="https://www.linkedin.com/in/busekoseoglu/" target="blank"><img align="center"
+  <a href="https://www.linkedin.com/in/busekoseoglu/" target="blank"><img align="rigt"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="adam pithewan" height="30" width="40" /></a>
-  <a href="https://buse-koseoglu13.medium.com" target="blank"><img align="center"
+  <a href="https://buse-koseoglu13.medium.com" target="blank"><img align="rigt"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"
       alt="adam pithen wala" height="30" width="40" /></a>
-  <a href="https://www.kaggle.com/busekseolu" target="blank"><img align="center"
+  <a href="https://www.kaggle.com/busekseolu" target="blank"><img align="rigt"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg"
       alt="_._.adam._" height="30" width="40" /></a>
-  <a href="https://twitter.com/busekoseoglu07" target="blank"><img align="center"
+  <a href="https://twitter.com/busekoseoglu07" target="blank"><img align="rigt"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
       alt="_._.adam._" height="30" width="40" /></a>
-  <a href="mailto:buse.koseoglu13@gmail.com" target="blank"><img align="center"
+  <a href="mailto:buse.koseoglu13@gmail.com" target="blank"><img align="rigt"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/mail.svg"
       alt="_._.adam._" height="30" width="40" /></a>
 </p>
