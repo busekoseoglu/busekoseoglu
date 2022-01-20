@@ -16,26 +16,7 @@
 [![](https://img.shields.io/badge/kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/busekseolu)
 [![Mail Badge](https://img.shields.io/badge/buse.koseoglu13@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:buse.koseoglu13@gmail.com)](mailto:buse.koseoglu13@gmail.com)
 
-<img align='center' src="https://github-readme-stats.vercel.app/api?username=busekoseoglu&show_icons=true&theme=highcontrast" width="500">
-<hr>
-<h3 align="right">Connect with me:</h3> 
-<p align="rigt">
-  <a href="https://www.linkedin.com/in/busekoseoglu/" target="blank"><img align="rigt"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="adam pithewan" height="30" width="40" /></a>
-  <a href="https://buse-koseoglu13.medium.com" target="blank"><img align="rigt"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"
-      alt="adam pithen wala" height="30" width="40" /></a>
-  <a href="https://www.kaggle.com/busekseolu" target="blank"><img align="rigt"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg"
-      alt="_._.adam._" height="30" width="40" /></a>
-  <a href="https://twitter.com/busekoseoglu07" target="blank"><img align="rigt"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="_._.adam._" height="30" width="40" /></a>
-  <a href="mailto:buse.koseoglu13@gmail.com" target="blank"><img align="rigt"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/mail.svg"
-      alt="_._.adam._" height="30" width="40" /></a>
-</p>
+
 
 
 
