@@ -19,7 +19,7 @@
 <img align='center' src="https://github-readme-stats.vercel.app/api?username=busekoseoglu&show_icons=true&theme=highcontrast" width="500">
 <hr>
 <h3 align="right">Connect with me:</h3> 
-<p align="left">
+<p align="rigt">
   <a href="https://www.linkedin.com/in/busekoseoglu/" target="blank"><img align="rigt"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="adam pithewan" height="30" width="40" /></a>
