@@ -16,7 +16,7 @@
 [![](https://img.shields.io/badge/kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/busekseolu)
 [![Mail Badge](https://img.shields.io/badge/buse.koseoglu13@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:buse.koseoglu13@gmail.com)](mailto:buse.koseoglu13@gmail.com)
 
-<img align='center' src="https://github-readme-stats.vercel.app/api?username=busekoseoglu&show_icons=true&theme=highcontrast" width="500">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=busekoseoglu&show_icons=true&theme=highcontrast" width="500">
 
 
 
