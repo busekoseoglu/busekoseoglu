@@ -1,4 +1,4 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=busekoseoglu&show_icons=true&theme=highcontrast">
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
 # Hello, I am Buse Köseoğlu! 
 
@@ -18,8 +18,7 @@
 [![](https://img.shields.io/badge/kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/busekseolu)
 [![Mail Badge](https://img.shields.io/badge/buse.koseoglu13@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:buse.koseoglu13@gmail.com)](mailto:buse.koseoglu13@gmail.com)
 
-
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<img align='center' src="https://github-readme-stats.vercel.app/api?username=busekoseoglu&show_icons=true&theme=highcontrast">
 
 
 
