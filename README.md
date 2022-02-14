@@ -18,7 +18,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=busekoseoglu&theme=tokyonight)
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=busekoseoglu&show_icons=true&theme=highcontrast" width="500">
+<img align='center' src="https://github-readme-stats.vercel.app/api?username=busekoseoglu&show_icons=true&theme=highcontrast" width="500">
 
 
 
