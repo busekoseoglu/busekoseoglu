@@ -2,9 +2,8 @@
 
 **About Me!**
 
-<img align="center" src = "https://user-images.githubusercontent.com/44964158/153929440-e5aac3a4-965c-4de4-a2b3-8a46a1a4bf8b.gif" width = 260>
+<img align="left" src = "https://user-images.githubusercontent.com/44964158/153930915-52f6df1b-ed4d-4d83-8ed1-a32f32fd8032.png" width = 260>
 
-![sticker Medium](https://user-images.githubusercontent.com/44964158/153930833-28e7ca18-af9a-49f7-9c70-d11b37a3fd94.png)
 
 - 💻 I’m currently Project and Process Intern at D.Serve
 - 🌱 I’m currently developing Python GUI projects and Data Science projects
