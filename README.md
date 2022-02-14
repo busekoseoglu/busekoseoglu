@@ -2,6 +2,9 @@
 
 **About Me!**
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="260">
+
+<iframe src="https://giphy.com/embed/rqd9R3yaDy16a8kDC1" width="391" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/computer-entrepreneur-girl-boss-rqd9R3yaDy16a8kDC1">via GIPHY</a></p>
+
 - 💻 I’m currently Project and Process Intern at D.Serve
 - 🌱 I’m currently developing Python GUI projects and Data Science projects
 - 🔖 I’m currently learning Swift for Mobile Programming.
