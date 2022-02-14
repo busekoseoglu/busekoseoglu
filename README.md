@@ -3,9 +3,8 @@
 **About Me!**
 <img align='right' src="https://giphy.com/embed/rqd9R3yaDy16a8kDC1" width="260">
 
-<iframe src="https://giphy.com/embed/rqd9R3yaDy16a8kDC1" width="391" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/computer-entrepreneur-girl-boss-rqd9R3yaDy16a8kDC1">via GIPHY</a></p>
+![giphy](https://user-images.githubusercontent.com/44964158/153929440-e5aac3a4-965c-4de4-a2b3-8a46a1a4bf8b.gif)
 
-<div style="width:100%;height:0;padding-bottom:123%;position:relative;"><iframe src="https://giphy.com/embed/rqd9R3yaDy16a8kDC1" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/computer-entrepreneur-girl-boss-rqd9R3yaDy16a8kDC1">via GIPHY</a></p>
 
 - 💻 I’m currently Project and Process Intern at D.Serve
 - 🌱 I’m currently developing Python GUI projects and Data Science projects
