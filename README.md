@@ -1,7 +1,6 @@
 # Hello, I am Buse Köseoğlu! <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 
 **About Me!**
-<img align='right' src="https://giphy.com/embed/rqd9R3yaDy16a8kDC1" width="260">
 
 ![giphy](https://user-images.githubusercontent.com/44964158/153929440-e5aac3a4-965c-4de4-a2b3-8a46a1a4bf8b.gif)
 
