@@ -2,7 +2,7 @@
 
 **About Me!**
 
-<img align="left" src = "https://user-images.githubusercontent.com/44964158/153929440-e5aac3a4-965c-4de4-a2b3-8a46a1a4bf8b.gif" width = 260>
+<img align="center" src = "https://user-images.githubusercontent.com/44964158/153929440-e5aac3a4-965c-4de4-a2b3-8a46a1a4bf8b.gif" width = 260>
 
 
 - 💻 I’m currently Project and Process Intern at D.Serve
