@@ -8,7 +8,7 @@
 - 💻 I’m currently Data Science Intern at Boyner
 - 🌱 I’m currently developing Python GUI projects and Data Science projects
 - 🧩 I learn the services of Azure and AWS and add them to my projects.
-- 🤔 My interest lies in Data Science, Machine Learning, Deep Learning and Mobile Programming
+- 🤔 My interest lies in Data Science, Machine Learning, Deep Learning
 
 
 [![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/busekoseoglu07)
