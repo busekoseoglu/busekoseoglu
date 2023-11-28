@@ -1,7 +1,7 @@
 <img align="right" src = "https://user-images.githubusercontent.com/44964158/153930915-52f6df1b-ed4d-4d83-8ed1-a32f32fd8032.png" width = 200 height=200>
 
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=34&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Buse+K%C3%B6seo%C4%9Flu" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=34&pause=1000&center=true&vCenter=true&random=false&repeat=false&width=435&lines=Buse+K%C3%B6seo%C4%9Flu" alt="Typing SVG" /></a>
     <br>
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=22&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Software+Engineer;Data+Scientist" alt="Typing SVG" /></a>
     <br>
