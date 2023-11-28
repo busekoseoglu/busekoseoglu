@@ -12,7 +12,6 @@
 </div>
 
 
-<img align='center' src="https://github-readme-stats.vercel.app/api?username=busekoseoglu&show_icons=true&theme=highcontrast" width="500">
 
 
 
