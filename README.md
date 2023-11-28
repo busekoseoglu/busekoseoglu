@@ -17,7 +17,7 @@
     <blockquote>
     <br>
     <div align="center">
-        <a href="https://github.com/busekoseoglu"><img src="https://busekoseoglu-github-readme-stats.vercel.app/api?username=busekoseoglu&count_private=true&show_icons=true&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="165"></a>
+        ![Buse's GitHub stats](https://github-readme-stats.vercel.app/api?username=busekoseoglu&show_icons=true&theme=transparent)
         &nbsp;&nbsp;&nbsp;&nbsp;
         <a href="https://github.com/busekoseoglu"><img src="https://busekoseoglu-github-readme-stats.vercel.app/api/top-langs/?username=busekoseoglu&theme=react&layout=compact&langs_count=6&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="165"></a>
     </div>
