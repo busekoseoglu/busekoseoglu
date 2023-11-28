@@ -17,14 +17,73 @@
     <blockquote>
     <br>
     <div align="center">
-        ![Buse's GitHub stats](https://github-readme-stats.vercel.app/api?username=busekoseoglu&show_icons=true&theme=transparent)
+        <a href="https://github.com/busekoseoglu"><img src="https://github-readme-stats.vercel.app/api?username=busekoseoglu&show_icons=true&theme=transparent" height="165"></a>
         &nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="https://github.com/busekoseoglu"><img src="https://busekoseoglu-github-readme-stats.vercel.app/api/top-langs/?username=busekoseoglu&theme=react&layout=compact&langs_count=6&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="165"></a>
+        <a href="https://github.com/busekoseoglu"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=busekoseoglu&layout=compact&show_icons=true&theme=transparent" height="165"></a>
     </div>
     </blockquote>
 </details>
 <br>
-
+<details open>
+    <summary>&nbsp;My Tech Stack 🛠</summary>
+    <blockquote>
+        <br>
+        <details open>
+            <summary>&nbsp;Programming and Markup Languages</summary>
+            <blockquote>
+                <div align="left">
+            <a href="https://github.com/busekoseoglu"><img alt="Python" src="https://img.shields.io/badge/-Python-000?logo=python"></a>
+		    <a href="https://github.com/busekoseoglu"><img alt="CSS" src="https://img.shields.io/badge/-CSS-000?logo=css3&logoColor=1572B6"></a>
+		    <a href="https://github.com/busekoseoglu"><img alt="HTML" src="https://img.shields.io/badge/-HTML-000?logo=html5"></a>
+		    <a href="https://github.com/busekoseoglu"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/-Java-000?logo=java&logoColor=1572B6z"></a>
+		    <a href="https://github.com/busekoseoglu"><img alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat"></a>
+		    <a href="https://github.com/busekoseoglu"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/-SQL-000?logo=database&logoColor=276DC3"></a>
+                </div>
+            </blockquote>
+        </details>
+        <details open>
+            <summary>&nbsp;Frameworks and Libraries</summary>
+            <blockquote>
+                <div align="left">
+		    <a href="https://github.com/busekoseoglu"><img alt="Apache Airflow" src="https://img.shields.io/badge/Apache%20Airflow-017CEE?logo=apacheairflow&logoColor=fff&style=flat"></a>
+		    <a href="https://github.com/busekoseoglu"><img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-000?logo=bootstrap"></a>
+		    <a href="https://github.com/busekoseoglu"><img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-000?logo=fastapi"></a>
+		    <a href="https://github.com/busekoseoglu"><img alt="Flask" src="https://img.shields.io/badge/-Django-000?logo=django&logoColor=092E20"></a>
+		    <a href="https://github.com/busekoseoglu"><img alt="Keras" src="https://img.shields.io/badge/-Keras-000?logo=Keras&logoColor=f73636"></a>
+		    <a href="https://github.com/busekoseoglu"><img alt="NumPy" src="https://img.shields.io/badge/-Numpy-000?logo=numpy&logoColor=013243"></a>
+		    <a href="https://github.com/busekoseoglu"><img alt="Pandas" src="https://img.shields.io/badge/-Pandas-000?logo=pandas"></a>
+		    <a href="https://github.com/busekoseoglu"><img alt="Plotly" src="https://img.shields.io/badge/-Plotly-000?logo=plotly&logoColor=3F4F75"></a>
+		    <a href="https://github.com/busekoseoglu"><img alt="Scikit-learn" src="https://img.shields.io/badge/-scikit%20learn-000?logo=scikitlearn"></a>
+		    <a href="https://github.com/busekoseoglu"><img alt="SciPy" src="https://img.shields.io/badge/-Scipy-000?logo=scipy&logoColor=8CAAE6"></a>
+		    <a href="https://github.com/busekoseoglu"><img alt="TensorFlow" src ="https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow"></a>
+                </div>
+            </blockquote>
+        </details>
+        <details open>
+            <summary>&nbsp;Infrastructure and DevOps</summary>
+            <blockquote>
+                <div align="left">
+		    <a href="https://github.com/busekoseoglu"><img alt="Docker" src ="https://img.shields.io/badge/-Docker-000?&logo=Docker"></a>
+		    <a href="https://github.com/busekoseoglu"><img alt="Git" src="https://img.shields.io/badge/-Git-000?logo=git"></a>
+		    <a href="https://github.com/busekoseoglu"><img alt="Jira" src ="https://img.shields.io/badge/-Jira-000?logo=jira&logoColor=0052CC"></a>
+                </div>
+            </blockquote>
+        </details>
+        <details open>
+            <summary>&nbsp;Software, Tools and favorable IDEs</summary>
+            <blockquote>
+                <div align="left">
+            <a href="https://github.com/busekoseoglu"><img alt="VS Code" src="https://img.shields.io/badge/-VS%20Code-000?logo=visual-studio-code&logoColor=007ACC"></a>
+		    <a href="https://github.com/busekoseoglu"><img alt="Anaconda" src="https://img.shields.io/badge/-Anaconda-000?logo=anaconda&logoColor=44A833"></a>
+		    <a href="https://github.com/busekoseoglu"><img alt="Google Colab" src="https://img.shields.io/badge/-Google%20Colab-000?logo=googlecolab&logoColor=F9AB00"></a>
+		    <a href="https://github.com/busekoseoglu"><img alt="Jupyter Notebook" src="https://img.shields.io/badge/-Jupyter%20Notebook-000?logo=jupyter&logoColor=F37626"></a>
+		    <a href="https://github.com/busekoseoglu"><img alt="PowerBI" src ="https://img.shields.io/badge/-PowerBI-000?logo=powerbi&logoColor=F2C811"></a>
+                </div>
+            </blockquote>
+        </details>
+    </blockquote>
+</details>
+<br>
 
 
 
