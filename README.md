@@ -17,9 +17,9 @@
     <blockquote>
     <br>
     <div align="center">
-        <a href="https://github.com/canaytore"><img src="https://canaytore-github-readme-stats.vercel.app/api?username=canaytore&count_private=true&show_icons=true&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="165"></a>
+        <a href="https://github.com/busekoseoglu"><img src="https://busekoseoglu-github-readme-stats.vercel.app/api?username=busekoseoglu&count_private=true&show_icons=true&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="165"></a>
         &nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="https://github.com/canaytore"><img src="https://canaytore-github-readme-stats.vercel.app/api/top-langs/?username=canaytore&theme=react&layout=compact&langs_count=6&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="165"></a>
+        <a href="https://github.com/busekoseoglu"><img src="https://busekoseoglu-github-readme-stats.vercel.app/api/top-langs/?username=busekoseoglu&theme=react&layout=compact&langs_count=6&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="165"></a>
     </div>
     </blockquote>
 </details>
