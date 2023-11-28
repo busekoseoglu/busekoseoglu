@@ -48,7 +48,7 @@
 		    <a href="https://github.com/busekoseoglu"><img alt="Apache Airflow" src="https://img.shields.io/badge/Apache%20Airflow-017CEE?logo=apacheairflow&logoColor=fff&style=flat"></a>
 		    <a href="https://github.com/busekoseoglu"><img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-000?logo=bootstrap"></a>
 		    <a href="https://github.com/busekoseoglu"><img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-000?logo=fastapi"></a>
-		    <a href="https://github.com/busekoseoglu"><img alt="Flask" src="https://img.shields.io/badge/-Django-000?logo=django&logoColor=092E20"></a>
+		    <a href="https://github.com/busekoseoglu"><img alt="Flask" src="https://img.shields.io/badge/-Flask-000?logo=flask"></a>
 		    <a href="https://github.com/busekoseoglu"><img alt="Keras" src="https://img.shields.io/badge/-Keras-000?logo=Keras&logoColor=f73636"></a>
 		    <a href="https://github.com/busekoseoglu"><img alt="NumPy" src="https://img.shields.io/badge/-Numpy-000?logo=numpy&logoColor=013243"></a>
 		    <a href="https://github.com/busekoseoglu"><img alt="Pandas" src="https://img.shields.io/badge/-Pandas-000?logo=pandas"></a>
